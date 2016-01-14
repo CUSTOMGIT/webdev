@@ -2,6 +2,7 @@
 
 //namespace app\controllers;
 namespace app\controllers;
+name space;;
 
 use Yii;
 use yii\helpers\Url;
