@@ -2,7 +2,7 @@
 
 class PaymentController extends Controller
 {
-	new changes 
+	new changes , add changes to payment
 	public $layout='//layouts/column2';
 
 	/**
